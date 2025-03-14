@@ -1,6 +1,7 @@
 This respository consists the following analyses:
 - Generation and Demand Profiles
-- Curtailments
+- Curtailments: Wind BOA
+- Reserve services: positive and negative quick reserve
 - Interconnectors
 - Operational Margins
 
